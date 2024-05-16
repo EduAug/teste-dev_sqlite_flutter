@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # test_flutter_sqlite
 
 A Flutter project with sqlite support.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# teste-dev_sqlite_flutter
+Simple CRUD app on Flutter with SQLite
+>>>>>>> 998b0c6acce68a1c6eab5bbc0dfe840e054b5248
